@@ -1,5 +1,7 @@
 # Mapty
 
+This project was completed through a course I took through Udemy, taught by Jonas Schmedtman
+
 -Description
 
 
